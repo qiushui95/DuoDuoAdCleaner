@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">儿歌多多广告去除器</string>
+    <string name="accessibility_service_desc">儿歌多多广告去除器</string>
+
+    <string name="accessibility_service_on">功能已开启</string>
+    <string name="accessibility_service_off">功能未开启</string>
+</resources>
